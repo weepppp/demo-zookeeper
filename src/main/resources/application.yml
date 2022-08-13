@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+zk:
+  url: 196.168.31.129:2181
+  timeout: 1000
+  retry: 3
+
+
